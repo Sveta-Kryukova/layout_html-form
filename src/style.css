@@ -1,1 +1,48 @@
 /* styles go here */
+input {
+  margin-bottom: 10px;
+}
+
+fieldset {
+  margin-bottom: 20px;
+}
+
+#mess {
+  margin-bottom: 10px;
+}
+
+#pass {
+  margin-bottom: 0;
+}
+
+#agreement {
+  margin-bottom: 2px;
+}
+
+#yes {
+  margin-bottom: 14px;
+}
+
+#no {
+  margin-bottom: 14px;
+}
+
+#color {
+  margin-bottom: 10px;
+}
+
+#time {
+  margin-bottom: 10px;
+}
+
+#time title {
+  margin-bottom: 10px;
+}
+
+.cars {
+  margin-bottom: 10px;
+}
+
+#rate {
+  margin-bottom: -2px;
+}
