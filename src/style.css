@@ -1,5 +1,5 @@
 /* styles go here */
-.inp {
+.input {
   display: block;
   margin-bottom: 10px;
 }
@@ -8,6 +8,6 @@
   margin-bottom: 20px;
 }
 
-.inp:last-child {
+.input:last-child {
   margin-bottom: 0;
 }
